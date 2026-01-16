@@ -1,4 +1,4 @@
-# character-archive
+# Bobs-character-archive
 A personal HTML-based archive for my original characters. 
 This site is a creative project used to organise lore, designs and character information in one place.
 ## Contents
